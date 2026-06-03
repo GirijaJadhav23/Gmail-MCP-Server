@@ -218,16 +218,3 @@ Once connected, you can ask your AI assistant:
 4. Add the import to `tools/__init__.py`
 5. Register it in `main.py` with `mcp.tool()(my_new_tool)`
 
----
-
-## 📝 License
-
-MIT
-
----
-
-## 🙏 Acknowledgments
-
-- [FastMCP](https://github.com/jlowin/fastmcp) — Python MCP framework
-- [Google Gmail API](https://developers.google.com/gmail/api) — Email access
-- [Model Context Protocol](https://modelcontextprotocol.io/) — AI tool standard
